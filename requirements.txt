@@ -1,0 +1,6 @@
+flask
+ultralytics
+roboflow
+
+openvino
+open3d

@@ -1,0 +1,94 @@
+.img_center {
+  display: block;
+  max-width:50%;
+  max-height:95px;
+  width: auto;
+  height: auto;
+  margin: auto;
+}
+
+.img_upload_center {
+  display: block;
+  max-width:100%;
+  max-height:600px;
+  width: auto;
+  height: auto;
+  margin: auto;
+}
+
+.btn_bayada {
+  background-color: #856969;
+  color: white;
+  border: none;
+}
+
+.card_results {
+  background-color: #dBd1d1;
+}
+
+.card_instructions {
+  background-color: #856969;
+  color: white;
+}
+
+
+input[type=range]::-webkit-slider-thumb {
+  background-color: #856969;
+}
+
+input[type=range]::-moz-range-thumb {
+  background-color: #856969;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+  background-color: #dBd1d1; 
+}
+
+input[type=range]::-moz-range-track {
+  background-color: #dBd1d1;
+}
+
+
+
+/*
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    color: #1c73cb;
+}
+
+h1 {
+    color: #da5d5d;
+    text-align: center;
+    padding: 20px;
+    background-color: #007bff;
+    border-bottom: 2px solid #0056b3;
+}
+
+p {
+    text-align: center;
+    font-size: 1.2em;
+    color: #495057;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+*/
